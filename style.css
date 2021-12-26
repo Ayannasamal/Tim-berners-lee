@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding-top: 800px;
+    text-align: center;
     
 }
 
@@ -22,6 +23,14 @@ body{
     padding-right: 9px;
     font-family: cursive;
     font-size: 20;
+}
+
+a { 
+    text-decoration: none; 
+}
+
+.article:hover { 
+    color:fuchsia; 
 }
 
 
